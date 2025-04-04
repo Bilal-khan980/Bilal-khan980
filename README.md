@@ -80,8 +80,14 @@
 ---
 
 > _"Code like a poet, debug like a detective."_ 🕵️‍♂️✨
+### 🌌 Little Bit of Fun
 
-<!---
-Bilal-khan980/Bilal-khan980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+```c
+// Code mode ON
+while(learning){
+    code();
+    debug();
+    repeat();
+}
+<p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220px"> </p>
 
