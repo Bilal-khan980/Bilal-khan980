@@ -1,94 +1,87 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Khan!;ML+%7C+AI+%7C+Web+%7C+Android+Dev+%F0%9F%9A%80;Software+Engineer+%7C+CS+Student+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bilal+Khan!;CS+Student+%7C+ML+%2F+AI+Engineer+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/LoEcU2wUwrEAAAAd/coding.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px">
 </p>
 
 ---
 
-### 👨‍💻 Who is Bilal?
+### 👋 About Me
 
-- 🎓 CS Student | MERN Stack Dev | AI/ML Explorer
-- 🤖 Building smart solutions with Computer Vision & NLP
-- 🛠️ Creator of apps that help & inspire
-- 💡 Learning never stops 🚀
+- 🎓 Computer Science student passionate about building impactful software.
+- 🤖 AI/ML enthusiast with hands-on projects in deep learning & computer vision.
+- 🌐 Full-stack web developer with MERN & Next.js experience.
+- 📱 Android app developer using Kotlin & Flutter.
+- 🧠 Constantly learning and experimenting with new tech.
 
 ---
 
-### 🧰 Tech Toolbox
+### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,react,nextjs,nodejs,express,mongodb,firebase,docker,kubernetes,tensorflow,pytorch,flask,git,github,linux,androidstudio,kotlin,flutter" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,nodejs,express,react,nextjs,mongodb,postgresql,docker,kubernetes,git,github,androidstudio,kotlin,flutter,linux,vscode" />
 </p>
 
 ---
 
-### 🌟 My GitHub Universe
+### 🧠 Currently Exploring
+- 📱 Advanced App Development (Flutter & Native Android)
+- 🤖 Reinforcement Learning & NLP
+- ☁️ Cloud + DevOps (CI/CD, Docker, Kubernetes)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilal-khan980&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-khan980&show_icons=true&count_private=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bilal-khan980&theme=radical" />
-  <br />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-khan980&show_icons=true&theme=radical" alt="Bilal's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bilal-khan980&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-khan980&layout=compact&theme=radical" />
-</div>
+</p>
 
 ---
 
-### 📈 Total Contributions & Commit Stats
+### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bilal-khan980&theme=radical&no-bg=true&margin-w=15&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bilal-khan980&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://badges.pufler.dev/commits/monthly/Bilal-khan980" alt="Monthly commits" />
-  <img src="https://badges.pufler.dev/commits/total/Bilal-khan980" alt="Total commits" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bilal-khan980&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🚨 **Be A Warden** | AI-powered violation detection using dashcam footage | YOLOv5, Flask, React, OCR |
-| 🚗 **AutoVerse** | Car buying/selling platform with chat & dashboard | Next.js, TailwindCSS, MongoDB |
-| 🛣️ **HTV Lane Detector** | Identifies HTVs in first lane using vision models | OpenCV, YOLOv5 |
-| 🪪 **License Plate Classifier** | Province-wise license plate classification | CV, Custom Dataset, Python |
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Be A Warden 🚨** | AI violation detection system using dashcam footage. | `YOLOv5`, `OCR`, `Flask`, `React` |
+| **AutoVerse 🚗** | Buy and sell automobiles through a sleek Next.js platform. | `Next.js`, `MongoDB`, `TailwindCSS` |
+| **HTV Lane Detection 📹** | Detects HTVs in the first lane using object detection. | `YOLO`, `OpenCV`, `Python` |
+| **License Plate Classifier** | Classifies plates from different provinces of Pakistan. | `YOLOv5`, `Custom Dataset`, `Computer Vision` |
 
 ---
 
-### 🧠 What I’m Learning
-
-- 🧭 Deep Dive into **Flutter + Firebase**
-- 🧠 Exploring **RL** and **LLMs**
-- ☁️ Hands-on with **DevOps** and **Cloud CI/CD**
-
----
-
-### 🔗 Let’s Connect
+### 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:bilalkhan980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/bilal-khan980"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/BilalKhan_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://bilalportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:bilalkhan980@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bilal-khan980"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/BilalKhan_dev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://bilalportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌌 Little Bit of Fun
+> _"Code like a poet, debug like a detective."_ 🕵️‍♂️✨
 
-```c
-// Code mode ON
-while(learning){
-    code();
-    debug();
-    repeat();
-}
+<!---
+Bilal-khan980/Bilal-khan980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+
