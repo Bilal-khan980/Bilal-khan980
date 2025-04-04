@@ -49,11 +49,6 @@
 
 ---
 
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bilal-khan980&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
