@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bilal+Khan!;CS+Student+%7C+ML+%2F+AI+Engineer+%7C+Full-Stack+Developer;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px">
