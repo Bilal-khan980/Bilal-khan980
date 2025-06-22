@@ -53,14 +53,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bilal-khan980/Bilal-khan980/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -92,4 +84,3 @@ while(learning){
     debug();
     repeat();
 }
-<p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" /> </p>
