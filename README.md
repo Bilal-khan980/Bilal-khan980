@@ -3,79 +3,87 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px" />
 </p>
 
 ---
 
-### 👋 About Me
-
-- 🎓 Computer Science student passionate about building impactful software.
-- 🤖 AI/ML enthusiast with hands-on projects in deep learning & computer vision.
-- 🌐 Full-stack web developer with MERN & Next.js experience.
-- 📱 Android app developer using Kotlin & Flutter.
-- 🧠 Constantly learning and experimenting with new tech.
+### 👨‍💻 About Me
+- 🎓 Final year Computer Science student
+- 🤖 AI/ML enthusiast specializing in deep learning & computer vision
+- 🌐 Full-stack developer: `MERN`, `Next.js`
+- 📱 Mobile dev: `Flutter`, `Kotlin`
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-### 🚀 Tech Stack & Tools
-
+### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,nodejs,express,react,nextjs,mongodb,postgresql,docker,kubernetes,git,github,androidstudio,kotlin,flutter,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,nodejs,express,react,nextjs,mongodb,postgres,docker,kubernetes,git,github,kotlin,flutter,androidstudio,linux,vscode&perline=10" />
 </p>
 
 ---
 
-### 🧠 Currently Exploring
-- 📱 Advanced App Development (Flutter & Native Android)
-- 🤖 Reinforcement Learning & NLP
-- ☁️ Cloud + DevOps (CI/CD, Docker, Kubernetes)
+### 🔭 Currently Exploring
+- 🧠 Reinforcement Learning & Transformers
+- ☁️ DevOps (CI/CD, Docker, Kubernetes)
+- 📱 Advanced Android + Flutter
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-khan980&show_icons=true&theme=radical" alt="Bilal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bilal-khan980&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-khan980&show_icons=true&theme=radical&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-khan980&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-khan980&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-khan980&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilal-khan980&theme=radical" width="48%" />
 </p>
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilal-khan980&theme=radical&margin-w=15&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
-### 📂 Featured Projects
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bilal-khan980/Bilal-khan980/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Be A Warden 🚨** | AI violation detection system using dashcam footage. | `YOLOv5`, `OCR`, `Flask`, `React` |
-| **AutoVerse 🚗** | Buy and sell automobiles through a sleek Next.js platform. | `Next.js`, `MongoDB`, `TailwindCSS` |
-| **HTV Lane Detection 📹** | Detects HTVs in the first lane using object detection. | `YOLO`, `OpenCV`, `Python` |
-| **License Plate Classifier** | Classifies plates from different provinces of Pakistan. | `YOLOv5`, `Custom Dataset`, `Computer Vision` |
+| **🚨 Be A Warden** | AI system detecting traffic violations from dashcam. | `YOLOv5`, `OCR`, `Flask`, `React` |
+| **🚗 AutoVerse** | Platform to buy/sell cars in Pakistan. | `Next.js`, `MongoDB`, `TailwindCSS` |
+| **📹 HTV Lane Detection** | Detects HTVs driving in wrong lanes. | `YOLO`, `OpenCV`, `Python` |
+| **🔤 License Plate Classifier** | Province-based plate classification. | `YOLOv5`, `CV`, `Custom Dataset` |
 
 ---
 
-### 📫 Let’s Connect
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:bilalkhan980@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bilal-khan980"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/BilalKhan_dev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://bilalportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:bilalkhan980@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bilal-khan980"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/BilalKhan_dev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://bilalportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-> _"Code like a poet, debug like a detective."_ 🕵️‍♂️✨
-### 🌌 Little Bit of Fun
+### 🧠 Fun Code Loop
 
 ```c
 // Code mode ON
@@ -84,6 +92,4 @@ while(learning){
     debug();
     repeat();
 }
-```
-<p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220px"> </p>
-
+<p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" /> </p>
